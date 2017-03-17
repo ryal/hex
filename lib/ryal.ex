@@ -1,0 +1,2 @@
+defmodule Ryal do
+end
